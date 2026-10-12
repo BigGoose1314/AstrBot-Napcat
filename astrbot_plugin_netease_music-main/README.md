@@ -141,6 +141,3 @@ SnowLuma 旧版本对 JSON 消息的 `data` 字段有严格校验，导致音乐
 
 MIT
 
-## 反馈
-
-如有问题或建议，欢迎加入 QQ 群：[小鲨科技交流群](https://qm.qq.com/q/28zoGC0mbi)
