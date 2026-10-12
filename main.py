@@ -57,10 +57,10 @@ def _log_debug_guard(condition: bool, msg: str):
 
 @register(
     "astrbot_plugin_netease_music",
-    "xiaoyunsha",
+    "BigGoose",
     "网易云点歌",
     VERSION,
-    "https://github.com/xiaoyunsha/astrbot_plugin_netease_music",
+    "https://github.com/BigGoose1314/astrbot_plugin_netease_music",
 )
 class WangYiYunDiange(Star):
     """网易云点歌插件主类"""

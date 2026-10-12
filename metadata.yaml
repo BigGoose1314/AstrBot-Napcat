@@ -2,8 +2,8 @@ name: astrbot_plugin_netease_music
 display_name: 网易云点歌
 desc: 网易云音乐点歌插件，纯Python直连官方API，无需部署额外服务。支持搜索点歌，发送QQ音乐卡片或语音消息（可下载到本地再发送，更稳定）。配置VIP cookie后可点播VIP歌曲完整版。
 version: v1.5.0
-author: xiaoyunsha
-repo: https://github.com/xiaoyunsha/astrbot_plugin_netease_music
+author: BigGoose
+repo: https://github.com/BigGoose1314/astrbot_plugin_netease_music
 short_desc: 网易云点歌 · 卡片/语音消息 · 支持VIP
 support_platforms:
   - aiocqhttp
